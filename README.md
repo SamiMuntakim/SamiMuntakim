@@ -1,6 +1,6 @@
 <h2 align="left">Hi! 👋 I'm Sami, a computer science student from Calgary!</h2>
 
-I'm currently an **Automation Engineer Intern at Hutton Safety Group**, where I build internal tools, automate workflows, and work with 25+ enterprise clients (Interac, Shell,
+I'm currently an **Software Engineer Intern at Hutton Safety Group**, where I build internal tools, automate workflows, and work with 25+ enterprise clients (Interac, Shell,
 Suncor, Cenovus, TC Energy.  
 
 Before that, I was a **Web Developer Intern at ABM College**, where I helped grow the website to 10,000+ monthly visitors!
